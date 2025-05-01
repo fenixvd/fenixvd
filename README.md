@@ -1,9 +1,54 @@
-# Приветствую на моем GitHub профиле!
+# 👋 Привет!
 
-Меня зовут fenixvd. Я занимаюсь написанием приложений на Java, а также скриптов Bash.
+🛠️ Системный администратор | DevOps | HomeLab энтузиаст  
 
-<!--- Демонстрационные картинки --->
-![Bash](https://img.icons8.com/?size=64&id=19292&format=png)
-![Java](https://img.icons8.com/?size=64&id=Pd2x9GWu9ovX&format=png)
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fenixvd&theme=algolia&show_icons=true)
+## 📌 О чём мой GitHub?
+
+Здесь я делюсь:
+- 🔐 Скриптами безопасности
+- 🧰 Автоматизацией рутинных задач
+- 🛠️ Настройками Docker, AdGuard, Pi-hole и других сервисов
+- 🧩 Мощными фильтрами и блоклистами
+
+---
+
+## 🚀 Мои проекты
+
+### [ultimate-blocklist](https://github.com/fenixvd/ultimate-blocklist)
+> Ежедневно обновляемый DNS-блоклист с более чем 2 миллионами записей для AdGuard
+
+### [pi-hole-lists](https://github.com/fenixvd/pi-hole-lists)
+> Ежедневно обновляемый DNS-блоклист для Pi-hole
+
+### [DistroHop](https://github.com/fenixvd/DistroHop)
+> Инструмент для установки минимального софта и оболочки zsh
+
+
+## 📊 Статистика GitHub
+
+📊 Ниже представлена моя активность на GitHub:
+
+![GitHub Summary](https://github-readme-stats.vercel.app/api?username=fenixvd&show_icons=true&theme=dracula)
+
+📈 Топ языков программирования:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenixvd&layout=compact&theme=dracula)
+
+---
+
+## ⚙️ Технологии и инструменты
+
+🔧 Я использую:
+- Linux (Debian/OpenSUSE)
+- Docker
+- Bash + Python
+- Git + Cron
+- Telegram Bots API
+
+---
+
+## 📸 Активность
+
+![GitHub Activity](https://ghchart.rshah.org/fenixvd)
