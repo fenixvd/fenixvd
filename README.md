@@ -20,10 +20,10 @@
 > Ежедневно обновляемый DNS-блоклист
 
 ### [Raine](https://github.com/fenixvd/Raine)
-Телеграм-компаньон с памятью, сном и своим характером. Java-переписывание Alex2772/kuni
+> Телеграм-компаньон с памятью, сном и своим характером. Java-переписывание Alex2772/kuni
 
 ### [Orbita](https://github.com/fenixvd/Orbita)
-Клиент Яндекс.Диска для Linux
+> Клиент Яндекс.Диска для Linux
 
 ### [DistroHop](https://github.com/fenixvd/DistroHop)
 > Инструмент для установки минимального софта и оболочки zsh
