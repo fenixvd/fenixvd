@@ -1,60 +1,26 @@
-# 👋 Привет!
+# RaineDev
 
-🛠️ Я Системный администратор | DevOps | HomeLab энтузиаст  
+Раньше использовал ник **fenixvd**, теперь — **RaineDev**. Названия аккаунтов и ссылки обновляю постепенно.
 
----
+Системный администратор. Работаю с Linux, автоматизацией и инфраструктурой.
+В свободное время пишу приложения и скрипты, развиваю домашнюю лабораторию.
 
-## 📌 О чём мой GitHub?
+Сайт: [rainedev.ru](https://rainedev.ru). За идею сайта спасибо [fajremvp/shellfolio](https://github.com/fajremvp/shellfolio).
 
-Здесь я делюсь:
-- 🔐 Скриптами безопасности
-- 🧰 Автоматизацией рутинных задач
-- 🛠️ Настройками Docker, AdGuard, Pi-hole и других сервисов
-- 🧩 Мощными фильтрами и блоклистами
+## Проекты
 
----
+| Проект | Что делает |
+| --- | --- |
+| [Sirin Music](https://github.com/fenixvd/SirinMusic) | Android-клиент для musik: музыкальная библиотека, подборки и радио. Kotlin, Jetpack Compose, Material 3. |
+| [Orbita](https://github.com/fenixvd/Orbita) | Клиент Яндекс.Диска для Linux. C++, Qt и Kirigami. |
+| [Raine](https://github.com/fenixvd/Raine) | Telegram-компаньон с памятью и своим характером. Реализация на Java на основе [kuni](https://github.com/Alex2772/kuni). |
+| [Obsidian Telegram bot](https://github.com/fenixvd/obsidian-telegram-bot) | Сохраняет сообщения, ссылки и вложения из Telegram в хранилище Obsidian. Работает без запущенного Obsidian. |
+| [ultimate-blocklist](https://github.com/fenixvd/ultimate-blocklist) | DNS-блоклист для фильтрации нежелательных доменов. |
+| [DistroHop](https://github.com/fenixvd/DistroHop) | Скрипты для настройки Linux, установки базовых программ и оболочки zsh. |
 
-## 🚀 Мои проекты
+## С чем работаю
 
-### [ultimate-blocklist](https://github.com/fenixvd/ultimate-blocklist)
-> Ежедневно обновляемый DNS-блоклист
-
-### [Raine](https://github.com/fenixvd/Raine)
-> Телеграм-компаньон с памятью, сном и своим характером. Java-переписывание Alex2772/kuni
-
-### [Orbita](https://github.com/fenixvd/Orbita)
-> Клиент Яндекс.Диска для Linux
-
-### [Sirin Music](https://github.com/fenixvd/SirinMusic)
-> Нативный Android-клиент для musik: библиотека, персональные подборки и радио на Jetpack Compose и Material 3.
-
-### [DistroHop](https://github.com/fenixvd/DistroHop)
-> Инструмент для установки минимального софта и оболочки zsh
-
-
-## 📊 Статистика GitHub
-
-📊 Ниже представлена моя активность на GitHub:
-
-![GitHub Summary](https://github-readme-stats.vercel.app/api?username=fenixvd&show_icons=true&theme=dracula)
-
-📈 Топ языков программирования:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenixvd&layout=compact&theme=dracula)
-
----
-
-## ⚙️ Технологии и инструменты
-
-🔧 Я использую:
-- Linux (Debian/OpenSUSE)
-- Docker
-- Bash + Python
-- Git + Cron
-- Telegram Bots API
-
----
-
-## 📸 Активность
-
-![GitHub Activity](https://ghchart.rshah.org/fenixvd)
+- **Инфраструктура:** Linux, Docker, Git, автоматизация через cron.
+- **Разработка:** Bash, Python, Java, Kotlin, C++.
+- **Приложения:** Jetpack Compose, Material 3, Qt / Kirigami, Telegram Bot API.
+- **Домашняя лаборатория:**
