@@ -25,6 +25,9 @@
 ### [Orbita](https://github.com/fenixvd/Orbita)
 > Клиент Яндекс.Диска для Linux
 
+### [Sirin Music](https://github.com/fenixvd/SirinMusic)
+> Нативный Android-клиент для musik: библиотека, персональные подборки и радио на Jetpack Compose и Material 3.
+
 ### [DistroHop](https://github.com/fenixvd/DistroHop)
 > Инструмент для установки минимального софта и оболочки zsh
 
